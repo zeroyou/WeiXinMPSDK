@@ -11,273 +11,315 @@ Senparc.Weixin SDK 项目贡献者
 
 贡献者名单
 -----------
-> 更新时间：2018年8月17日<br>
+> 更新时间：2020年8月31日<br>
 > 排名不分先后
 
-> 	1.	2881099	<br>
-> 	2.	397712418	<br>
-> 	3.	554393109	<br>
-> 	4.	772413635	<br>
-> 	5.	1015450578	<br>
-> 	6.	.	<br>
-> 	7.	1015450578	<br>
-> 	8.	a673025	<br>
-> 	9.	ajiebp1977	<br>
-> 	10.	AjuPrince	<br>
-> 	11.	alexinea	<br>
-> 	12.	AndroidHarry	<br>
-> 	13.	AndroidHarry 	<br>
-> 	14.	Andysun	<br>
-> 	15.	AnnXu	<br>
-> 	16.	Antain	<br>
-> 	17.	anyangmaxin	<br>
-> 	18.	AxisRay	<br>
-> 	19.	bangq	<br>
-> 	20.	bemguin	<br>
-> 	21.	bingohanet	<br>
-> 	22.	brookyu2	<br>
-> 	23.	bt308  	<br>
-> 	24.	buyixiaohan	<br>
-> 	25.	CandiceDong	<br>
-> 	26.	capqueen	<br>
-> 	27.	changshuzf	<br>
-> 	28.	chaoyebugao	<br>
-> 	29.	chenSean1	<br>
-> 	30.	chinacoolboyzz	<br>
-> 	31.	chinanhb	<br>
-> 	32.	ciel	<br>
-> 	33.	cnryb	<br>
-> 	34.	coderdp	<br>
-> 	35.	coolboy0821	<br>
-> 	36.	CooperLiu	<br>
-> 	37.	cuibty	<br>
-> 	38.	davidmaster 	<br>
-> 	39.	deerchao	<br>
-> 	40.	dongfo	<br>
-> 	41.	dusdong	<br>
-> 	42.	dyb628	<br>
-> 	43.	e4ky	<br>
-> 	44.	F2EVarMan	<br>
-> 	45.	F2EVarMan 	<br>
-> 	46.	fanyinghao	<br>
-> 	47.	fengrui358	<br>
-> 	48.	fghshunzi	<br>
-> 	49.	Forever	<br>
-> 	50.	FrancisFYK	<br>
-> 	51.	gainorloss	<br>
-> 	52.	GK	<br>
-> 	53.	gwhzh21	<br>
-> 	54.	gzf790808802	<br>
-> 	55.	gzlboy	<br>
-> 	56.	HADB	<br>
-> 	57.	heavenwing	<br>
-> 	58.	hello2008zj	<br>
-> 	59.	hentaicreep	<br>
-> 	60.	hetaoos	<br>
-> 	61.	Hieasywork	<br>
-> 	62.	hilite2000	<br>
-> 	63.	hiseab 	<br>
-> 	64.	Hsinky	<br>
-> 	65.	hybiz	<br>
-> 	66.	hyl8218	<br>
-> 	67.	Inuyasha-cxk	<br>
-> 	68.	JadynWong	<br>
-> 	69.	JeffreySu	<br>
-> 	70.	jefth	<br>
-> 	71.	jianliulin	<br>
-> 	72.	Jie	<br>
-> 	73.	jiehanlin	<br>
-> 	74.	jiehanlin 	<br>
-> 	75.	joelz	<br>
-> 	76.	joesjiang 	<br>
-> 	77.	John0King	<br>
-> 	78.	JohnnyWongC	<br>
-> 	79.	jsionr	<br>
-> 	80.	Just run	<br>
-> 	81.	Kagamine	<br>
-> 	82.	Kchanlee	<br>
-> 	83.	kevincwq	<br>
-> 	84.	KevinDai	<br>
-> 	85.	kevinleptin	<br>
-> 	86.	KevinPan	<br>
-> 	87.	KevinQiangK	<br>
-> 	88.	kistliu	<br>
-> 	89.	kuangyanit	<br>
-> 	90.	lanybass	<br>
-> 	91.	lb0726	<br>
-> 	92.	lb0726 	<br>
-> 	93.	leeseett	<br>
-> 	94.	lhg0302 	<br>
-> 	95.	lhh.net	<br>
-> 	96.	LiJiangShan（mc7246）	<br>
-> 	97.	lisensoft	<br>
-> 	98.	lishewen	<br>
-> 	99.	lishewen 	<br>
-> 	100.	"lishewen 
-
-"	<br>
-> 	101.	lishewen 	<br>
-> 	102.	lishewen（算神）	<br>
-> 	103.	liu0621   	<br>
-> 	104.	liubiqu	<br>
-> 	105.	liurongwei	<br>
-> 	106.	LoveHikari	<br>
-> 	107.	ly303550688	<br>
-> 	108.	maikebing	<br>
-> 	109.	Mc7246	<br>
-> 	110.	mc7246 	<br>
-> 	111.	Messilimeng 	<br>
-> 	112.	Mine	<br>
-> 	113.	mojinxun 	<br>
-> 	114.	mrrightwangl 	<br>
-> 	115.	MysticBoy	<br>
-> 	116.	mzjimzji	<br>
-> 	117.	Name	<br>
-> 	118.	oppoic	<br>
-> 	119.	Oswald	<br>
-> 	120.	p041911070 	<br>
-> 	121.	pbzyy	<br>
-> 	122.	pekrr1e 	<br>
-> 	123.	pekrr1e 	<br>
-> 	124.	pengxinzhe	<br>
-> 	125.	percyboy	<br>
-> 	126.	Phoenixpang	<br>
-> 	127.	pipihu	<br>
-> 	128.	qwork 	<br>
-> 	129.	qzyuanmu  	<br>
-> 	130.	redshana	<br>
-> 	131.	ritazh	<br>
-> 	132.	Rwing	<br>
-> 	133.	sdf333	<br>
-> 	134.	seking	<br>
-> 	135.	sharp-summit	<br>
-> 	136.	sherlockleo	<br>
-> 	137.	Single 	<br>
-> 	138.	sipo1209	<br>
-> 	139.	sipo1209 	<br>
-> 	140.	snowfoxzx 	<br>
-> 	141.	spadark	<br>
-> 	142.	starpunk	<br>
-> 	143.	stonychen	<br>
-> 	144.	suifengshiqu	<br>
-> 	145.	szw2003	<br>
-> 	146.	tail00zhou	<br>
-> 	147.	tanglixu	<br>
-> 	148.	tangyangming	<br>
-> 	149.	taobaohi	<br>
-> 	150.	tausi0661	<br>
-> 	151.	thisXYH	<br>
-> 	152.	tickwudi 	<br>
-> 	153.	tkoncat	<br>
-> 	154.	ToFuKing 	<br>
-> 	155.	TomLiu-GitHub	<br>
-> 	156.	toyoung	<br>
-> 	157.	turbodu	<br>
-> 	158.	TYSZCC	<br>
-> 	159.	uliian	<br>
-> 	160.	ulswww	<br>
-> 	161.	vejuhust	<br>
-> 	162.	vejuhust 	<br>
-> 	163.	vgiagiigi	<br>
-> 	164.	warman007	<br>
-> 	165.	wbingchao	<br>
-> 	166.	wlclass	<br>
-> 	167.	wuball	<br>
-> 	168.	wushancool 	<br>
-> 	169.	xbotter	<br>
-> 	170.	xjfxkook	<br>
-> 	171.	xland 	<br>
-> 	172.	xuchangsoufang 	<br>
-> 	173.	xuSs1994	<br>
-> 	174.	xy109	<br>
-> 	175.	YaChengMu	<br>
-> 	176.	yangpengfei	<br>
-> 	177.	yaols	<br>
-> 	178.	Yinqingwen 	<br>
-> 	179.	yongjinc 	<br>
-> 	180.	Youraiseme	<br>
-> 	181.	ys9168274	<br>
-> 	182.	ytpos	<br>
-> 	183.	yuchen1030	<br>
-> 	184.	Yuiane	<br>
-> 	185.	yuxiaochou	<br>
-> 	186.	yyhui00	<br>
-> 	187.	ZachShine 	<br>
-> 	188.	zeje	<br>
-> 	189.	zhaochenghang	<br>
-> 	190.	zhcnlei	<br>
-> 	191.	zhcnlei 	<br>
-> 	192.	ZhenZhang	<br>
-> 	193.	zhou0818 	<br>
-> 	194.	zhoujs712	<br>
-> 	195.	zhouxin93	<br>
-> 	196.	ziyunhx	<br>
-> 	197.	zjfsdnu	<br>
-> 	198.	zmjack	<br>
-> 	199.	zmjack 	<br>
-> 	200.	zxz19 	<br>
-> 	201.	阿举 	<br>
-> 	202.	阿力	<br>
-> 	203.	巴斯	<br>
-> 	204.	摆渡人	<br>
-> 	205.	包延军	<br>
-> 	206.	查无此人	<br>
-> 	207.	错觉	<br>
-> 	208.	芳平	<br>
-> 	209.	飞机大猪	<br>
-> 	210.	飞鱼	<br>
-> 	211.	风格	<br>
-> 	212.	峰	<br>
-> 	213.	扶强	<br>
-> 	214.	傅深文	<br>
-> 	215.	宫志伟	<br>
-> 	216.	够了没有	<br>
-> 	217.	鼓噪的街舞	<br>
-> 	218.	国兴	<br>
-> 	219.	贺斌	<br>
-> 	220.	侯**	<br>
-> 	221.	胡卫星	<br>
-> 	222.	魂牵悲梦  	<br>
-> 	223.	江南	<br>
-> 	224.	孔大强	<br>
-> 	225.	孔令强	<br>
-> 	226.	拉风的汉子	<br>
-> 	227.	蓝微.石	<br>
-> 	228.	老蒋	<br>
-> 	229.	李蒙	<br>
-> 	230.	理想天空	<br>
-> 	231.	刘建华	<br>
-> 	232.	孟婆来杯果汁	<br>
-> 	233.	明刚	<br>
-> 	234.	树超	<br>
-> 	235.	素还真	<br>
-> 	236.	天涯海角	<br>
-> 	237.	魏战朋	<br>
-> 	238.	文兄	<br>
-> 	239.	吴宏伟	<br>
-> 	240.	吴晓阳	<br>
-> 	241.	伍超	<br>
-> 	242.	向东辉	<br>
-> 	243.	向虎 	<br>
-> 	244.	潇洒哥	<br>
-> 	245.	小木木木	<br>
-> 	246.	星星	<br>
-> 	247.	徐朗	<br>
-> 	248.	徐林	<br>
-> 	249.	徐泽远	<br>
-> 	250.	薛彬 	<br>
-> 	251.	杨恒连 	<br>
-> 	252.	杨月明	<br>
-> 	253.	垚祎	<br>
-> 	254.	一生有你	<br>
-> 	255.	异	<br>
-> 	256.	櫻花鉤吻鮭	<br>
-> 	257.	远朝	<br>
-> 	258.	在长沙	<br>
-> 	259.	张举	<br>
-> 	260.	张晓恩	<br>
-> 	261.	张晓林	<br>
-> 	262.	振峰	<br>
-> 	263.	郑贝贝	<br>
-> 	264.	忠燕	<br>
-> 	265.	周园	<br>
+>	1	.	2881099	<br>
+>	2	.	183328251	<br>
+>	3	.	397712418	<br>
+>	4	.	554393109	<br>
+>	5	.	772413635	<br>
+>	6	.	1015450578	<br>
+>	7	.	.	<br>
+>	8	.	a673025	<br>
+>	9	.	ajiebp1977	<br>
+>	10	.	AjuPrince	<br>
+>	11	.	alexinea	<br>
+>	12	.	AndroidHarry	<br>
+>	13	.	Andysun	<br>
+>	14	.	AnnXu	<br>
+>	15	.	Antain	<br>
+>	16	.	anyangmaxin	<br>
+>	17	.	archeraya	<br>
+>	18	.	AxisRay	<br>
+>	19	.	bangq	<br>
+>	20	.	bemguin	<br>
+>	21	.	bingohanet	<br>
+>	22	.	brookyu2	<br>
+>	23	.	bt308  	<br>
+>	24	.	buyixiaohan	<br>
+>	25	.	bxjg1987	<br>
+>	26	.	CandiceDong	<br>
+>	27	.	capqueen	<br>
+>	28	.	CdLian	<br>
+>	29	.	changshuzf	<br>
+>	30	.	chaoyebugao	<br>
+>	31	.	chenSean1	<br>
+>	32	.	chinacoolboyzz	<br>
+>	33	.	cqinwn	<br>
+>	34	.	c q we b wang	<br>
+>	35	.	crashsol	<br>
+>	36	.	chinanhb	<br>
+>	37	.	ciel	<br>
+>	38	.	cnryb	<br>
+>	39	.	coderdp	<br>
+>	40	.	coolboy0821	<br>
+>	41	.	Coolincy	<br>
+>	42	.	CooperLiu	<br>
+>	43	.	cuibty	<br>
+>	44	.	davidmaster 	<br>
+>	45	.	deerchao	<br>
+>	46	.	dongfo	<br>
+>	47	.	dong900512	<br>
+>	48	.	dusdong	<br>
+>	49	.	dupeng0811	<br>
+>	50	.	dyb628	<br>
+>	51	.	Dysheng	<br>
+>	52	.	e4ky	<br>
+>	53	.	F2EVarMan	<br>
+>	54	.	fairangel	<br>
+>	55	.	fanyinghao	<br>
+>	56	.	fdstar	<br>
+>	57	.	fengrui358	<br>
+>	58	.	fengshi19888	<br>
+>	59	.	fghshunzi	<br>
+>	60	.	Forever	<br>
+>	61	.	FrancisFYK	<br>
+>	62	.	gainorloss	<br>
+>	63	.	gendou	<br>
+>	64	.	Gitoffice	<br>
+>	65	.	GK	<br>
+>	66	.	gwhzh21	<br>
+>	67	.	gzf790808802	<br>
+>	68	.	gzlboy	<br>
+>	69	.	HADB	<br>
+>	70	.	heavenwing	<br>
+>	71	.	hebiziyu 	<br>
+>	72	.	hello2008zj	<br>
+>	73	.	hentaicreep	<br>
+>	74	.	hesi815	<br>
+>	75	.	hetaoos	<br>
+>	76	.	Hieasywork	<br>
+>	77	.	hilite2000	<br>
+>	78	.	hiseab 	<br>
+>	79	.	hnsongbiao	<br>
+>	80	.	Hsinky	<br>
+>	81	.	hybiz	<br>
+>	82	.	hyl8218	<br>
+>	83	.	ImQdf 	<br>
+>	84	.	iXinwei	<br>
+>	85	.	Inuyasha-cxk	<br>
+>	86	.	JadynWong	<br>
+>	87	.	janywhere 	<br>
+>	88	.	JeffreySu	<br>
+>	89	.	jefth	<br>
+>	90	.	JianCheng	<br>
+>	91	.	JianChengSun	<br>
+>	92	.	jianliulin	<br>
+>	93	.	jiuzhou2019	<br>
+>	94	.	Jie	<br>
+>	95	.	jiehanlin 	<br>
+>	96	.	joelz	<br>
+>	97	.	joesjiang 	<br>
+>	98	.	John0King	<br>
+>	99	.	JohnnyWongC	<br>
+>	100	.	jsionr	<br>
+>	101	.	Just run	<br>
+>	102	.	Kagamine	<br>
+>	103	.	Kchanlee	<br>
+>	104	.	kevincwq	<br>
+>	105	.	KevinDai	<br>
+>	106	.	kevinleptin	<br>
+>	107	.	KevinPan	<br>
+>	108	.	KevinQiangK	<br>
+>	109	.	kistliu	<br>
+>	110	.	kuangyanit	<br>
+>	111	.	lanybass	<br>
+>	112	.	lb0726	<br>
+>	113	.	leeseett	<br>
+>	114	.	LGinC	<br>
+>	115	.	lhg0302 	<br>
+>	116	.	lhh.net	<br>
+>	117	.	LiJiangShan（mc7246）	<br>
+>	118	.	lingkejia 	<br>
+>	119	.	lisensoft	<br>
+>	120	.	lishewen（算神）	<br>
+>	121	.	liu0621   	<br>
+>	122	.	liubiqu	<br>
+>	123	.	liurongwei	<br>
+>	124	.	LoveHikari	<br>
+>	125	.	lxings	<br>
+>	126	.	luoyunchong	<br>
+>	127	.	luoxy123	<br>
+>	128	.	Liu-Ryan	<br>
+>	129	.	lxyruanjian	<br>
+>	130	.	ly303550688	<br>
+>	131	.	maikebing	<br>
+>	132	.	Mc7246	<br>
+>	133	.	Messilimeng 	<br>
+>	134	.	Mine	<br>
+>	135	.	mojinxun 	<br>
+>	136	.	mrrightwangl 	<br>
+>	137	.	mpnet	<br>
+>	138	.	MysticBoy	<br>
+>	139	.	mzjimzji	<br>
+>	140	.	Name	<br>
+>	141	.	oTcom	<br>
+>	142	.	oppoic	<br>
+>	143	.	OrchesAdam 	<br>
+>	144	.	Oswald	<br>
+>	145	.	p041911070 	<br>
+>	146	.	pbzyy	<br>
+>	147	.	pekrr1e 	<br>
+>	148	.	pengweiqhca 	<br>
+>	149	.	pengxinzhe	<br>
+>	150	.	percyboy	<br>
+>	151	.	Phoenixpang	<br>
+>	152	.	pipihu	<br>
+>	153	.	qwork 	<br>
+>	154	.	qi_deqian	<br>
+>	155	.	qzyuanmu  	<br>
+>	156	.	redshana	<br>
+>	157	.	ringls 	<br>
+>	158	.	rongjieaaa	<br>
+>	159	.	ritazh	<br>
+>	160	.	Rwing	<br>
+>	161	.	sdf333	<br>
+>	162	.	slwangzi	<br>
+>	163	.	seking	<br>
+>	164	.	sharp-summit	<br>
+>	165	.	sherlockleo	<br>
+>	166	.	Single 	<br>
+>	167	.	sipo1209 	<br>
+>	168	.	snowfoxzx 	<br>
+>	169	.	spadark	<br>
+>	170	.	starpunk	<br>
+>	171	.	stonychen	<br>
+>	172	.	suifengshiqu	<br>
+>	173	.	szw2003	<br>
+>	174	.	tail00zhou	<br>
+>	175	.	TalkTruly	<br>
+>	176	.	tanglixu	<br>
+>	177	.	tangyangming	<br>
+>	178	.	taobaohi	<br>
+>	179	.	tausi0661	<br>
+>	180	.	tongbenchuan	<br>
+>	181	.	 tony26050369	<br>
+>	182	.	thisXYH	<br>
+>	183	.	tickwudi 	<br>
+>	184	.	tkoncat	<br>
+>	185	.	ToFuKing 	<br>
+>	186	.	TomLiu-GitHub	<br>
+>	187	.	toyoung	<br>
+>	188	.	turbodu	<br>
+>	189	.	TYSZCC	<br>
+>	190	.	ulyanvosk	<br>
+>	191	.	uliian	<br>
+>	192	.	ulswww	<br>
+>	193	.	vejuhust 	<br>
+>	194	.	vgiagiigi	<br>
+>	195	.	WangDrama	<br>
+>	196	.	warman007	<br>
+>	197	.	wbingchao	<br>
+>	198	.	wtujvk	<br>
+>	199	.	wlclass	<br>
+>	200	.	wlsoftware	<br>
+>	201	.	wuball	<br>
+>	202	.	wushancool 	<br>
+>	203	.	xbotter	<br>
+>	204	.	xcaptain	<br>
+>	205	.	xjfxkook	<br>
+>	206	.	xland 	<br>
+>	207	.	xuchangsoufang 	<br>
+>	208	.	xuefuruanjian	<br>
+>	209	.	xuSs1994	<br>
+>	210	.	xy109	<br>
+>	211	.	YaChengMu	<br>
+>	212	.	yangpengfei	<br>
+>	213	.	yaols	<br>
+>	214	.	Yinqingwen 	<br>
+>	215	.	yongjinc 	<br>
+>	216	.	Youraiseme	<br>
+>	217	.	ys9168274	<br>
+>	218	.	ytpos	<br>
+>	219	.	yuchen1030	<br>
+>	220	.	yueliuhun	<br>
+>	221	.	Yuiane	<br>
+>	222	.	yuxiaochou	<br>
+>	223	.	yyhui00	<br>
+>	224	.	ZachShine 	<br>
+>	225	.	zeje	<br>
+>	226	.	zhaochenghang	<br>
+>	227	.	zhao365845726	<br>
+>	228	.	zhcnlei	<br>
+>	229	.	ZhenZhang	<br>
+>	230	.	zhongyi112134 	<br>
+>	231	.	zhou0818 	<br>
+>	232	.	zhoujs712	<br>
+>	233	.	zhouxin93	<br>
+>	234	.	ziyunhx	<br>
+>	235	.	zjfsdnu	<br>
+>	236	.	zmjack	<br>
+>	237	.	zxz19 	<br>
+>	238	.	阿举 	<br>
+>	239	.	阿力	<br>
+>	240	.	巴斯	<br>
+>	241	.	摆渡人	<br>
+>	242	.	包延军	<br>
+>	243	.	查无此人	<br>
+>	244	.	错觉	<br>
+>	245	.	方栋	<br>
+>	246	.	芳平	<br>
+>	247	.	飞机大猪	<br>
+>	248	.	飞鱼	<br>
+>	249	.	风格	<br>
+>	250	.	峰	<br>
+>	251	.	扶强	<br>
+>	252	.	傅深文	<br>
+>	253	.	宫志伟	<br>
+>	254	.	够了没有	<br>
+>	255	.	鼓噪的街舞	<br>
+>	256	.	国兴	<br>
+>	257	.	贺斌	<br>
+>	258	.	侯**	<br>
+>	259	.	胡卫星	<br>
+>	260	.	魂牵悲梦  	<br>
+>	261	.	江南	<br>
+>	262	.	孔大强	<br>
+>	263	.	孔令强	<br>
+>	264	.	拉风的汉子	<br>
+>	265	.	蓝微.石	<br>
+>	266	.	老蒋	<br>
+>	267	.	李蒙	<br>
+>	268	.	理想天空	<br>
+>	269	.	刘建华	<br>
+>	270	.	孟婆来杯果汁	<br>
+>	271	.	明刚	<br>
+>	272	.	树超	<br>
+>	273	.	素还真	<br>
+>	274	.	天涯海角	<br>
+>	275	.	听雨一生	<br>
+>	276	.	魏战朋	<br>
+>	277	.	文兄	<br>
+>	278	.	吴宏伟	<br>
+>	279	.	吴晓阳	<br>
+>	280	.	伍超	<br>
+>	281	.	向东辉	<br>
+>	282	.	向虎 	<br>
+>	283	.	潇洒哥	<br>
+>	284	.	小木木木	<br>
+>	285	.	星星	<br>
+>	286	.	徐朗	<br>
+>	287	.	徐林	<br>
+>	288	.	徐泽远	<br>
+>	289	.	薛彬 	<br>
+>	290	.	杨恒连 	<br>
+>	291	.	杨月明	<br>
+>	292	.	垚祎	<br>
+>	293	.	一生有你	<br>
+>	294	.	异	<br>
+>	295	.	櫻花鉤吻鮭	<br>
+>	296	.	远朝	<br>
+>	297	.	在长沙	<br>
+>	298	.	张举	<br>
+>	299	.	张晓恩	<br>
+>	300	.	张晓林	<br>
+>	301	.	振峰	<br>
+>	302	.	郑贝贝	<br>
+>	303	.	忠燕	<br>
+>	304	.	周园	<br>
+>	305	.	李洋leon	<br>
+>	306	.	卖白菜的	<br>
+>	307	.	kb虎小子	<br>
+>	308	.	上善若水	<br>
+>	309	.	卖卤鸽的	<br>

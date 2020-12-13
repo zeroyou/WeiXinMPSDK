@@ -1,7 +1,7 @@
 ﻿#region Apache License Version 2.0
 /*----------------------------------------------------------------
 
-Copyright 2018 Jeffrey Su & Suzhou Senparc Network Technology Co.,Ltd.
+Copyright 2020 Jeffrey Su & Suzhou Senparc Network Technology Co.,Ltd.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file
 except in compliance with the License. You may obtain a copy of the License at
@@ -19,7 +19,7 @@ Detail: https://github.com/JeffreySu/WeiXinMPSDK/blob/master/license.md
 #endregion Apache License Version 2.0
 
 /*----------------------------------------------------------------
-    Copyright (C) 2018 Senparc
+    Copyright (C) 2020 Senparc
     
     文件名：OrderApi.cs
     文件功能描述：微小店图片接口
@@ -39,6 +39,7 @@ using System.Threading.Tasks;
 using Senparc.CO2NET.Extensions;
 using Senparc.CO2NET.Helpers;
 using Senparc.CO2NET.HttpUtility;
+using Senparc.NeuChar;
 using Senparc.Weixin.Helpers;
 using Senparc.Weixin.HttpUtility;
 
@@ -50,6 +51,7 @@ namespace Senparc.Weixin.MP.AdvancedAPIs.MerChant
     public static class PictureApi
     {
         #region 同步方法
+        [ApiBind(NeuChar.PlatformType.WeChat_OfficialAccount, "PictureApi.UploadImg", true)]
         public static PictureResult UploadImg(string accessToken, string fileName)
         {
             var urlFormat = Config.ApiMpHost + "/merchant/common/upload_img?access_token={0}&filename={1}";
@@ -59,15 +61,15 @@ namespace Senparc.Weixin.MP.AdvancedAPIs.MerChant
 
             using (var fs = FileHelper.GetFileStream(fileName))
             {
-                var jsonText = RequestUtility.HttpPost(url, null, fs);
+                var jsonText = RequestUtility.HttpPost(CommonDI.CommonSP, url, null, fs);
                 json = Senparc.Weixin.HttpUtility.Post.GetResult<PictureResult>(jsonText);
             }
             return json;
         }
         #endregion
 
-#if !NET35 && !NET40
         #region 异步方法
+        [ApiBind(NeuChar.PlatformType.WeChat_OfficialAccount, "PictureApi.UploadImgAsync", true)]
         public static async Task<PictureResult> UploadImgAsync(string accessToken, string fileName)
         {
             var urlFormat = Config.ApiMpHost + "/merchant/common/upload_img?access_token={0}&filename={1}";
@@ -77,12 +79,11 @@ namespace Senparc.Weixin.MP.AdvancedAPIs.MerChant
 
             using (var fs = FileHelper.GetFileStream(fileName))
             {
-                var jsonText = await RequestUtility.HttpPostAsync(url, null, fs);
+                var jsonText = await RequestUtility.HttpPostAsync(CommonDI.CommonSP, url, null, fs).ConfigureAwait(false);
                 json = Senparc.Weixin.HttpUtility.Post.GetResult<PictureResult>(jsonText);
             }
             return json;
         }
         #endregion
-#endif
     }
 }
